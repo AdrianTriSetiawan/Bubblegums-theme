@@ -25,15 +25,9 @@
 ## 📸 Screenshots
 
 ### Editor Preview
-> Add your editor screenshot here showing code with Bubblegum theme
+![Bubblegum Theme Editor Preview](./screenshots/preview1.png)
 
-### UI Preview  
-> Add your UI screenshot showing sidebar, activity bar, and panels
-
-### Terminal Preview
-> Add your terminal screenshot showing colorful ANSI colors
-
-*To add screenshots: Take screenshots of VS Code with Bubblegum theme active, save them in the `screenshots/` folder, and update the image links above.*
+*Showing syntax highlighting with pink keywords, mint green strings, lavender functions, and sky blue types on a deep purple background.*
 
 ---
 
