@@ -1,6 +1,41 @@
 # Bubblegum Theme 🍬
 
-A sweet and vibrant dark theme for Visual Studio Code with bubblegum-inspired pink and purple aesthetics.
+<p align="center">
+  <img src="./icon.png" alt="Bubblegum Theme Icon" width="128" height="128">
+</p>
+
+<p align="center">
+  <strong>A sweet and vibrant dark theme for Visual Studio Code with bubblegum-inspired pink and purple aesthetics.</strong>
+</p>
+
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=AdrianTriS.bubblegum-theme">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/AdrianTriS.bubblegum-theme?color=%23ff8ec4&label=VS%20Marketplace&logo=visual-studio-code" alt="VS Marketplace Version">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=AdrianTriS.bubblegum-theme">
+    <img src="https://img.shields.io/visual-studio-marketplace/d/AdrianTriS.bubblegum-theme?color=%23ad5599" alt="Downloads">
+  </a>
+  <a href="https://github.com/AdrianTriSetiawan/Bubblegums-theme">
+    <img src="https://img.shields.io/github/stars/AdrianTriSetiawan/Bubblegums-theme?color=%23ff6b9d" alt="GitHub Stars">
+  </a>
+</p>
+
+---
+
+## 📸 Screenshots
+
+### Editor Preview
+> Add your editor screenshot here showing code with Bubblegum theme
+
+### UI Preview  
+> Add your UI screenshot showing sidebar, activity bar, and panels
+
+### Terminal Preview
+> Add your terminal screenshot showing colorful ANSI colors
+
+*To add screenshots: Take screenshots of VS Code with Bubblegum theme active, save them in the `screenshots/` folder, and update the image links above.*
+
+---
 
 ## Features
 
@@ -39,9 +74,6 @@ A sweet and vibrant dark theme for Visual Studio Code with bubblegum-inspired pi
 4. Click on `...` (More Actions) → **Install from VSIX...**
 5. Select the downloaded `.vsix` file
 
-## Screenshots
-
-![Bubblegum Theme Preview](./screenshots/preview.png)
 
 ## Recommended Settings
 
