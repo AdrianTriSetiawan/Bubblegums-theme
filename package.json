@@ -1,0 +1,39 @@
+{
+  "name": "bubblegum-theme",
+  "displayName": "Bubblegum Theme",
+  "description": "A sweet pink and purple dark theme with bubblegum aesthetics",
+  "version": "1.0.0",
+  "publisher": "AdrianTriS",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "pink",
+    "purple",
+    "bubblegum",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bubblegum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bubblegum-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianTriSetiawan/Bubblegums-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AdrianTriSetiawan/Bubblegums-theme/issues"
+  },
+  "license": "MIT"
+}
