@@ -1,0 +1,19 @@
+{
+  "name": "bubblegums-theme",
+  "version": "1.0.0",
+  "description": "A playful bubble gum themed color palette with pink and purple tones",
+  "main": "theme.css",
+  "keywords": [
+    "theme",
+    "bubblegum",
+    "pink",
+    "css",
+    "color-palette"
+  ],
+  "author": "AdrianTriSetiawan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianTriSetiawan/Bubblegums-theme.git"
+  }
+}
